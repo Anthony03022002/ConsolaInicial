@@ -1,0 +1,16 @@
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.exe
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.deps.json
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.runtimeconfig.json
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.runtimeconfig.dev.json
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.dll
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\ref\Inicial.dll
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\bin\Debug\net5.0\Inicial.pdb
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.csproj.AssemblyReference.cache
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.AssemblyInfoInputs.cache
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.AssemblyInfo.cs
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.dll
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\ref\Inicial.dll
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.pdb
+C:\Users\AnthonyGuamán\Documents\Instituto\Tercer semestre\Programación visual\Inicial\obj\Debug\net5.0\Inicial.genruntimeconfig.cache
